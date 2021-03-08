@@ -7,3 +7,4 @@
   * socket.io 라이브러리
   * node.js Web Server(Express Framework)
   * Css styling, flexBox
+  * ngrok
